@@ -1,0 +1,23 @@
+Sarah Wagner
+Chapter One Homework Questions
+
+Page 64 & 65 
+Questions 42 & 43
+
+42)
+a) N^2 + 3N --> O(N^2)
+b) 3N^2 + N --> O(N^2)
+c) N^5 + 100N^3 + 245 --> O(N^5)
+d) 3Nlog2N + N^2 --> O(N^2)
+e) 1 + N + N^2 + N^3 + N^4 --> O(N^4)
+f) (N*(N - 1)) / 2 --> O(N^2)
+-----------------------------------------------------------------
+43)
+a) N
+b) N^2
+c) log2N
+d) N^2 - N
+e) N^2
+f) N
+
+	
